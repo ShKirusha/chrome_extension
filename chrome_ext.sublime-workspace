@@ -1,0 +1,1001 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"seac_h",
+				"search_link_href"
+			],
+			[
+				"current",
+				"currentTrack"
+			],
+			[
+				"all",
+				"allMinutes"
+			],
+			[
+				"All",
+				"allMinutes"
+			],
+			[
+				"last",
+				"last_track_title"
+			],
+			[
+				"elem",
+				"track_elems"
+			],
+			[
+				"dura",
+				"duration"
+			],
+			[
+				"dur",
+				"duration"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"click",
+				"clickOnPlay"
+			],
+			[
+				"togg",
+				"toggle	.toggle()"
+			],
+			[
+				"slide",
+				"slideToggle	.slideToggle()"
+			],
+			[
+				"first",
+				"firstAudio"
+			],
+			[
+				"appenD",
+				"appendTo	.appendTo()"
+			],
+			[
+				"hide",
+				"hideLinks"
+			],
+			[
+				"cur",
+				"currentLink"
+			],
+			[
+				"cl",
+				"cl	ConsoleLogSnippet"
+			],
+			[
+				"each",
+				"each	.each()"
+			],
+			[
+				"clo",
+				"closest	.closest()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			],
+			[
+				"added",
+				"addedNodes"
+			],
+			[
+				"user",
+				"userKeyIds"
+			],
+			[
+				"tre",
+				"trigger	.trigger()"
+			],
+			[
+				"toggle",
+				"toggleClass	.toggleClass()"
+			],
+			[
+				"append",
+				"append	.append()"
+			],
+			[
+				"f",
+				"fun	Function"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"addLaterB",
+				"addLaterButton2"
+			],
+			[
+				"ready",
+				"ready	$(document).ready"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"insetr",
+				"insertBefore	.insertBefore()"
+			],
+			[
+				"inner",
+				"innerHTML"
+			],
+			[
+				"p",
+				"public/"
+			],
+			[
+				"node",
+				"node.events.EventEmitter.on	Snippet: NodeJS EventEmitter"
+			],
+			[
+				"tal",
+				"ta-lst	text-align-last"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"cp",
+				"cur-p	cursor: pointer;"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"tr",
+				"trinkets-a.ini"
+			],
+			[
+				"items",
+				"items-a.ini"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"cart",
+				"carthead"
+			],
+			[
+				"css",
+				"css	.css() - single"
+			],
+			[
+				"pr",
+				"pos-r	position: relative;"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "vk_inject-in inital list.js",
+			"settings":
+			{
+				"buffer_size": 8785,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 947,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vk_inject.js",
+			"settings":
+			{
+				"buffer_size": 15412,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vk_view.js",
+			"settings":
+			{
+				"buffer_size": 2703,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": ".wide_wall_module .post_full_like_wrap, .post_fixed .post_full_like_wrap {\n    width: 370px !important;\n}\n.post_later_link {\n    display: inline;\n    color: #829BAF;\n}\n\n.post_later_plus {\n    background: url(/images/icons/audio_icons.png?6) -78px -51px no-repeat;\n    width: 15px;\n    height: 12px;\n    padding-left: 0px;\n    opacity: 0.4;\n    /*transition: 0.3s;*/\n    transition: opacity 0.3s ease-in-out;\n}\n.post_later.active .post_later_plus {\n    opacity: 1.0;\n    background-position: -166px -51px;\n    width: 15px;\n}\n\n.fw_post_date .post_later_plus {\n    display: inline-block;\n    margin: 0px -4px -1px 3px ;\n}\n\n.post_later.active .post_share_link {\n    margin-right: 5px;\n    color: #2F5879;\n}\n\n.post_later .post_share_link {\n    margin-right: 5px;\n}\n\n.post_later {\n    visibility: hidden;\n}\n\n.fw_post_date .post_later {\n    visibility: visible;\n}\n.post:hover .post_later,\n.post .post_later.active {\n    visibility: visible;\n}\n\n\n#s_search.disabled,\n#pad_search.disabled {\n    background-color: rgba(208, 205, 205, 0.25) !important; \n}\n\n\n\n/*-------------from vk listen_later styles-----------------*/\n#initial_list_2 .link_elem {\n  padding-left: 0px;\n  position: relative;\n}\n\n#initial_list_2 .link_elem b{\n    color: #2B587A;\n}\n\n\n#initial_list_2 .area {\n    cursor: pointer;\n    position: relative;\n    width: 424px;\n    margin: 0px;\n}\n\n#initial_list_2 .link_elem .play_btn {\n    padding: 0px;\n    width: auto;\n}\n#initial_list_2 .link_elem .play_btn_wrap {\n    padding: 9px;\n}\n#initial_list_2 .link_elem .play_new {\n    cursor: pointer;\n    width: 16px;\n    height: 16px;\n    background: url(/images/playpause.gif) no-repeat 0px 0px;\n}\n\n#initial_list_2 .link_elem .info {\n    position: relative;\n    width: 390px;\n}\n\n#initial_list_2 .link_elem .title_wrap {\n    float: left;\n    width: 330px;\n    padding: 10px 0 9px;\n    -o-text-overflow: ellipsis;\n    text-overflow: ellipsis;\n    overflow: hidden;\n    white-space: nowrap;\n}\n\n#initial_list_2 .link_elem .title_wrap b {\n    padding: 0px;\n    display: inline-block;\n    vertical-align: top;\n    max-width: 230px;\n    overflow: hidden;\n    -o-text-overflow: ellipsis;\n    text-overflow: ellipsis;\n    white-space: nowrap;\n}\n\n#initial_list_2 .link_elem span.user {\n    font-size: 0.9em;\n}\n\n#initial_list_2 .link_elem .area .actions {\n    top: 0px;\n}\n#pad_playlist_panel .link_elem .area .actions {\n    position: absolute;\n    top: 0px;\n    right: 0px;\n    padding-left: 10px;\n}\n\n\n#initial_list_2 .link_elem.active .audio_remove {\n    background-position: -121px -51px;\n}\n#initial_list_2 .link_elem.active .play_new {\n    background: url(/images/icons/audio_icons.png?6) -147px -28px no-repeat;\n}\n#initial_list_2 .link_elem.active.playing .play_new {\n    background-position: -165px -28px;\n}\n\n\n#initial_list_2 .link_elem.active .title_wrap a,\n#initial_list_2 .link_elem.active .title_wrap,\n#initial_list_2 .link_elem.active span.user {\n    color: #fff;\n}\n\n\n\n#initial_list_2 .link_elem.over .audio_remove {\n        visibility: visible;\n}\n\n\n#initial_list_2 .link_elem .duration {\n    color: #777;\n    font-size: 0.9em;\n}\n#initial_list_2 .link_elem.active .area .duration {\n    color: #b1bfcf;\n}\n\n\n#initial_list_2 .link_elem.over .duration {\n    display: none;\n}\n\n#initial_list_2 .link_elem.over .area {\n    background-color: #EDF1F5;\n}\n\n#initial_list_2 .link_elem.active .area {\n    background-color: #5f7fa2;\n}\n\n#initial_list_2 .link_elem .audio_remove_wrap{\n    transition: 0.2s;\n}\n#initial_list_2 .link_elem .audio_remove_wrap:hover {\n    opacity: 1.0;\n    /*visibility: visible;*/\n}\n\n/*------------------- копия стилей из Music Sig --------------*/\n\n#initial_list_2 .link_elem .data_info {\n    display: none;\n}\n#initial_list_2 .link_elem:hover .data_info {\n    display: block;\n}\n\n#initial_list_2 .link_elem:hover .info .data_info {\n    color: rgb(136, 136, 136);\n    font-size: 0.9em;\n    position: absolute;\n    top: 19px;\n}\n\n\n#initial_list_2 .link_elem:hover .info .data_info b{\n    color: #888;\n}\n{\n\n}\n#initial_list_2 .link_elem:hover .info .title_wrap {\n    padding-top: 3px;\n}\n\n/* #initial_list_2 .link_elem:hover .info .data_info b {\n    color: rgb(238, 238, 238);\n    color: #888888;\n} */\n\n#initial_list_2 .link_elem span.user {\n    color: #2B587A;\n}\n\n#initial_list_2 .link_elem.active b {\n    color: #FFF;\n}\n#initial_list_2 .link_elem.active .data_info b,\n#initial_list_2 .link_elem.active .data_info span,\n#initial_list_2 .link_elem.active:hover .info .data_info b  {\n    color: rgb(238, 238, 238);\n}\n\n\n#initial_list_2 .link_elem.long .title_wrap {\n    width: 302px;\n}\n\n#initial_list_2 .link_elem.long .user {\n    float: left;\n    margin: 12px 0 0 4px;\n}\n\n#initial_list_2 .link_elem.long:hover .user {\n    margin-top: 5px;\n}\n\n/*----------------------------------- new search stuff ------------------- */\n\n#search_link .right_link {\n    margin-right: 5px;\n}",
+			"file": "vk_styles.css",
+			"file_size": 5081,
+			"file_write_time": 131090943647355127,
+			"settings":
+			{
+				"buffer_size": 4823,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 219.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"ecss",
+				"Run eCSStractor"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"Snippet: console",
+				"Snippet: ConsoleLogSnippet"
+			],
+			[
+				"Snippet: ",
+				"Snippet: fakeimg"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 424.0
+	},
+	"console":
+	{
+		"height": 120.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/WEB/learn/chrome_ext",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/clpklndnggegmgdacfkliopbpnelbogm/1.3.2_0"
+	],
+	"file_history":
+	[
+		"/D/WEB/learn/react-redux/package.json",
+		"/D/WEB/learn/react-redux/npm-debug.log",
+		"/D/WEB/learn/react-redux/gulpfile.js",
+		"/D/WEB/learn/react-redux/gulp/tsd.js",
+		"/D/WEB/learn/react-redux/dist/app/config.js",
+		"/D/WEB/learn/react-redux/src/components/todo.tsx",
+		"/D/WEB/learn/react-redux/tsd.json",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/eCSStractor/eCSStractor.sublime-settings",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/clpklndnggegmgdacfkliopbpnelbogm/1.3.2_0/extra.html",
+		"/D/WEB/learn/chrome_ext/vk_view.js",
+		"/D/WEB/learn/chrome_ext/vk_popup.js",
+		"/D/WEB/learn/chrome_ext/jquery-2.2.2.min.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/clpklndnggegmgdacfkliopbpnelbogm/1.3.2_0/js/script.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/manifest.json",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/scripts/browsers.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/scripts/usermenu.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/scripts/bbcode.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/scripts/background.js",
+		"/D/WEB/learn/chrome_ext/background.js",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/ConsoleLogSnippet.sublime-snippet",
+		"/D/WEB/learn/chrome_ext/package.json",
+		"/D/WEB/learn/chrome_ext/vk_inject.js",
+		"/D/WEB/learn/chrome_ext/gulpfile.js",
+		"/D/WEB/learn/gulp2/package.json",
+		"/D/WEB/learn/gulp2/gulpfile.js",
+		"/D/WEB/learn/chrome_ext/manifest.json",
+		"/D/WEB/learn/gulp/package.json",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/SECsnippet.sublime-snippet",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/clpklndnggegmgdacfkliopbpnelbogm/1.3.2_0/manifest.json",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/WEB/learn/chrome_ext/popup.html",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/hanjiajgnonaobdlklncdjdmpbomlhoa/3.1.15_0/scripts/bootstrap.js",
+		"/C/Users/Admin/AppData/Local/Google/Chrome/User Data/Default/Extensions/clpklndnggegmgdacfkliopbpnelbogm/1.3.2_0/includes/bg.js",
+		"/D/WEB/learn/chrome_ext/test.js",
+		"/D/WEB/snippets&info/html&php/popupV3.html",
+		"/D/WEB/learn/chrome_ext/vk_styles.css",
+		"/D/WEB/learn/gulp/frontend/styles/main.css",
+		"/D/WEB/learn/gulp/frontend/styles/main.scss",
+		"/D/WEB/learn/gulp/gulpfile.js",
+		"/D/WEB/projects/johnny/project2/package.json",
+		"/D/WEB/projects/johnny/.DS_Store",
+		"/D/WEB/projects/johnny/project - копия/package.json",
+		"/D/WEB/learn/gulp/frontend/styles/another.css",
+		"/D/WEB/learn/gulp/public/styles/main.css",
+		"/D/WEB/learn/gulp/gulpfile-css.js",
+		"/D/WEB/learn/gulp/frontend/styles/_another.scss",
+		"/D/WEB/learn/gulp/frontend/styles/_styles.scss",
+		"/D/WEB/learn/gulp/frontend/assets/index.html",
+		"/D/OpenServer/domains/isaac.ru/.htaccess",
+		"/D/OpenServer/domains/isaac.ru/Amazon/php.ini",
+		"/D/OpenServer/domains/isaac.ru/Amazon/my.cnf",
+		"/D/OpenServer/domains/isaac.ru/Amazon/httpd.conf",
+		"/D/OpenServer/domains/wtf.ru/styles/main.css.map",
+		"/D/WEB/learn/gulp/public/styles/main.css.map",
+		"/D/OpenServer/domains/wtf.ru/frontend/styles/main.scss",
+		"/D/OpenServer/domains/wtf.ru/styles/main.css",
+		"/C/Users/Admin/AppData/Roaming/Sublime Text 3/Packages/User/Nodejs.sublime-settings",
+		"/D/WEB/learn/gulp/public/index.html",
+		"/D/WEB/learn/gulp/frontend/index.html",
+		"/D/WEB/learn/gulp/npm-debug.log",
+		"/D/WEB/learn/gulp/frontend/styles/styles.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_media.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_collapsers.scss",
+		"/D/WEB/learn/gulp/frontend/styles/another.scss",
+		"/D/WEB/learn/gulp/public/styles/styles.css",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/main.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_product-selector.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_readme-box.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_sidebar.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_site.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_mixins.scss",
+		"/D/WEB/learn/bootstrap/MyMusicSite/css/scss/_summary-block.scss",
+		"/D/WEB/learn/gulp/public/styles.css",
+		"/D/WEB/projects/ancom/screen.scss",
+		"/D/WEB/projects/ancom/screen.css",
+		"/D/WEB/projects/ancom/js.js",
+		"/D/WEB/projects/ancom/index.html",
+		"/D/WEB/projects/ancom/mobile.css",
+		"/D/OpenServer/domains/mvc.com/another/classes/registry.php",
+		"/D/OpenServer/domains/mvc.com/another/.htaccess",
+		"/D/OpenServer/domains/mvc.com/another/classes/router.php",
+		"/D/OpenServer/domains/mvc.com/another/includes/startup.php",
+		"/D/OpenServer/domains/mvc.com/another/classes/template.php",
+		"/D/OpenServer/domains/mvc.com/another/controllers/index.php",
+		"/D/OpenServer/domains/mvc.com/another/classes/controller_base.php",
+		"/D/OpenServer/domains/mvc.com/another/index.php",
+		"/D/OpenServer/domains/auto.ru/js/main.js",
+		"/D/OpenServer/domains/auto.ru/css/style.css",
+		"/D/OpenServer/domains/auto.ru/js/old/main.js",
+		"/D/OpenServer/domains/auto.ru/js/old/main1.js",
+		"/D/WEB/snippets&info/js/правильное склонение, в зависимости от цифры.js",
+		"/D/OpenServer/domains/mvc.com/another/controllers/.htaccess",
+		"/D/OpenServer/domains/mvc.com/another/templates/index.php",
+		"/D/OpenServer/domains/mvc.com/another/controllers/members.php",
+		"/D/OpenServer/domains/isaac.ru/admin/connect.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/views/404_view.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/views/template_view.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/views/portfolio_view.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/core/controller.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/core/route.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/controllers/controller_admin.php",
+		"/D/OpenServer/domains/mvc.com/tiny/application/controllers/controller_login.php",
+		"/D/WEB/projects/johnny/minimal/js/main.js",
+		"/D/WEB/projects/johnny/minimal/css/main.css",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DI40.920/route.php",
+		"/D/OpenServer/domains/mvc.ru/application/views/404_view.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DI00.920/404_view.php",
+		"/D/OpenServer/domains/mvc.ru/application/core/route.php",
+		"/D/OpenServer/domains/mvc.ru/index.php",
+		"/D/OpenServer/domains/mvc.ru/application/bootstrap.php",
+		"/D/OpenServer/domains/mvc.ru/application/core/controller.php",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_404.php",
+		"/D/OpenServer/domains/mvc.ru/application.0.2/controllers/controller_admin.php",
+		"/D/OpenServer/domains/mvc.ru/application.0.2/core/controller.php",
+		"/D/OpenServer/domains/mvc.ru/application.0.2/core/route.php",
+		"/D/OpenServer/domains/mvc.ru/application.0.2/views/404_view.php",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_login.php",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_contacts.php",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_services.php",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_admin.php",
+		"/D/OpenServer/domains/mvc.ru/application/views/main_view.php",
+		"/D/OpenServer/domains/mvc.ru/application/views/template_view.php",
+		"/D/OpenServer/domains/mvc.ru/application/views/login_view.php",
+		"/D/OpenServer/domains/mvc.ru/application/core/view.php",
+		"/D/OpenServer/domains/mvc.ru/application/core/model.php",
+		"/C/Users/Admin/AppData/Local/Temp/Rar$DI91.400/.htaccess",
+		"/D/OpenServer/domains/mvc.ru/.htaccess",
+		"/D/OpenServer/domains/mvc.ru/application/controllers/controller_main.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\clpklndnggegmgdacfkliopbpnelbogm\\1.3.2_0",
+			"C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\Default\\Extensions\\hanjiajgnonaobdlklncdjdmpbomlhoa\\3.1.15_0",
+			"D:\\OpenServer\\domains\\mvc.ru\\application",
+			"<project>",
+			"D:\\OpenServer\\domains\\isaac.ru\\txt",
+			"D:\\OpenServer\\domains\\isaac.ru",
+			"D:\\OpenServer\\domains\\demo.ru",
+			"D:\\OpenServer\\domains\\sushi-kazan.ru",
+			"D:\\OpenServer\\domains\\sushi-kazan.ru\\core\\components\\shopkeeper3\\elements\\chunks\\ru",
+			"D:\\OpenServer\\domains\\sushi-kazan.ru",
+			"D:\\OpenServer\\domains\\sushi-kazan.ru\\core\\components\\shopkeeper3\\elements\\chunks\\ru"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"post_later_plus",
+			"count",
+			"getView",
+			"data",
+			"date",
+			"data.date",
+			"post_later",
+			"post_share_link",
+			"post_later_plus",
+			"before",
+			"currentpath",
+			"post_later",
+			"path",
+			"currentPath",
+			"path",
+			"addLinks",
+			"checkPosts",
+			"addLinks",
+			"addToStorage",
+			"post_later",
+			"post_share_link",
+			"post_share_link fl_l",
+			"indexOf",
+			"addSearchLink",
+			"page_wall_header",
+			"addSearchLink",
+			"page_wall_posts_count",
+			"addSearchLink",
+			"addSearchLink\n",
+			"addSearchLink",
+			"addSearchLink\n",
+			"page_wall_posts_count",
+			"addSearchLink",
+			"checkPosts",
+			"getView",
+			"checkPosts",
+			"audios_left_link",
+			"click",
+			"observePlayer",
+			"addLinks",
+			"post_link",
+			"summTime",
+			"observePlayer",
+			"summTime",
+			"currentTrack",
+			"summTime",
+			"observePlayer",
+			"playbackOrder",
+			"addMenuTo",
+			"childList",
+			"childList\n",
+			"playbackOrder",
+			"checkPosts",
+			"new MutationObserv",
+			"childList",
+			":hover",
+			"act=",
+			"summTime",
+			"split",
+			"chrome.storage.sync.get",
+			"getStorage(function (result) {",
+			"getStorage",
+			"chrome.storage.sync.get",
+			"show_more",
+			"s_search",
+			"showlinks",
+			"more",
+			"show_more",
+			"console.log('hid",
+			"act=later",
+			"later",
+			"showLinks",
+			"listen_later",
+			"showLinks",
+			"listen_later",
+			"window.location.p",
+			"selector",
+			"addMenuTo",
+			"choosePlace",
+			"appendTo",
+			"console.log",
+			"appendTo",
+			"choosePlace",
+			"addMenuTo",
+			"hideLinks()",
+			"работала функция ",
+			"clickedOnPlay",
+			"play_btn_wrap",
+			"initial_list_2",
+			"trigger('click'",
+			"hideLinks",
+			"hide",
+			"Class('playing')",
+			"currPlay.track_elems",
+			".track_elem",
+			"ac_next",
+			"showLink",
+			"currPlay.track_elem",
+			"#ac_play",
+			"currPlay.track_elem",
+			"trigger('click",
+			"hideLink",
+			"wall_",
+			"disabled",
+			"s_search",
+			"window.location.",
+			"s_search",
+			"audios_left_link",
+			"history.pushState",
+			".pushState",
+			"pushState",
+			"audios_left_link",
+			"s_more_link",
+			"search_list",
+			"currPlay.link_elem",
+			"link_elem",
+			"track_elem",
+			"currplay",
+			"load_links",
+			"closeClick",
+			"currPlay.track_elem",
+			"container",
+			"<div",
+			"<a",
+			"<span",
+			"<div",
+			"countText",
+			"<div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"currTrackDuration",
+			"currPlay.track_elems",
+			"currPlay.track_elem",
+			"currPlay.link_elem",
+			"currPlay.elem",
+			"data_info",
+			".active",
+			".link_elem",
+			".later_link",
+			".audios",
+			"clickedOnPlay",
+			"removeLink",
+			"firstTrack",
+			"showLinks",
+			"loadLinks",
+			"loadPostLinks",
+			"checkPosts",
+			"addMenuTo",
+			"currentPath",
+			"addLinks",
+			"addToPosts",
+			"refresh",
+			"audios_left_link",
+			"self",
+			"this",
+			"myData",
+			"addToStorage",
+			"editStorage",
+			"addData",
+			"findPosts",
+			"addListenLaterLink",
+			"'",
+			"<a href=\"/?type=0&id=x\"><div class='d-ib afterbirth",
+			"<a href=\"/?type=0&id=212\"><div class='d-ib rebirth-item",
+			"</span></div></a>",
+			"d-ib span",
+			"afterbirth-item",
+			"d-ib a-item small ",
+			"d-ib rebirth-item small ",
+			"d-ib rebirth-item small",
+			"\"> --></td>",
+			"<!-- <img src=\"images/seeds/",
+			"(Нет изображения)",
+			"\"--></td>",
+			"<!--img src=\"images/seeds/",
+			"addlinkdata",
+			"[unlocks]",
+			"[descr]",
+			"descr]",
+			"$item[id]",
+			"\\'",
+			"",
+			";",
+			"",
+			"\\'",
+			"1",
+			"",
+			";",
+			"",
+			"\\'",
+			"\\'s",
+			"</p>",
+			"<p>",
+			"pcl",
+			"pop",
+			"",
+			"pop",
+			"dlcdesc=\"\"\\ntags=",
+			"к Скорости Полета Слёз",
+			"Высоте Полёта слёз",
+			"Высоте Полёта Слезы",
+			"Комната Жертвоприношений",
+			"Проклятая Комната",
+			"<a target=\"blank\" href=\"http://ru.bindingofisaac.wikia.com/wiki/Молчание\">Hush</a>",
+			"Попрошайка",
+			"Комната Дьявола",
+			"Комната Дьявола Режима Жадности",
+			"Комната Ангела",
+			"Секретная Комната",
+			"12 комнат",
+			"4 комнаты",
+			" играя за ",
+			"играя за ",
+			"Попрошайка Ключей",
+			"Комната Ангела Режима Жадности",
+			"Босс-Комната",
+			"Магазин",
+			"Магазин Режима Жадности",
+			"Магазин,",
+			"Магазин",
+			"Комната Сокровищ",
+			"Комната Сокровищ,",
+			"Комната Сокровищ Режима Жадности",
+			"Магазин Режима Жадности",
+			"помощник",
+			"tid=\"1000\"",
+			"tid=\"1001\"",
+			"\"Пассивный, Модификатор Бомб\"",
+			"\"Пассивный, Помощник\"",
+			"\"Пассивный, Модификатор Слёз\"",
+			"\"Пассивный,",
+			"к Удаче",
+			"к Урону",
+			"к Скорости Атаки",
+			"к Размеру Слезы",
+			"к Дальности Атаки",
+			"\"Мгновенно\"",
+			"\"Мгновенно (ОДНОРАЗОВЫЙ)\"",
+			"\"4 комнаты\"",
+			"\"3 комнаты\"",
+			"\"2 комнаты\"",
+			"\"1 комната\"",
+			"\"Активируемый\"",
+			"\"Пассивный\"",
+			"a-trn",
+			"afterbirth-item",
+			"afterbirth",
+			"a-itm",
+			"</p>\"",
+			"$1</p>",
+			"$1",
+			"[0]",
+			"[1]",
+			"{1}",
+			"(1)",
+			"</p>\"\\ntype",
+			"</p>\\ntype",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "vk_inject-in inital list.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8785,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6587,
+								6587
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 484.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "manifest.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 947,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								286,
+								286
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "vk_inject.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5728,
+								5728
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2524.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "vk_view.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2703,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								414,
+								414
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "vk_styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4823,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								615,
+								615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chrome_ext.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
