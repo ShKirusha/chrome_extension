@@ -18,9 +18,9 @@
   "content_scripts": [
     {
       "matches": ["*://vk.com/*"],
-      "js": ["jquery-2.2.2.min.js","vk_view.js","vk_inject.js"],
+      "js": ["js/jquery-2.2.2.min.js","js/vk_view.js","js/vk_inject.js"],
       "run_at": "document_end",
-      "css": ["vk_styles.css"]
+      "css": ["css/vk_styles.css"]
     }
   ],
   "background": {

@@ -21,7 +21,6 @@ var choosePlace = {
 var removeDownload = true;
 
 
-alert('test');
 
 /*
 $('#ac_title').change(function(event) {
